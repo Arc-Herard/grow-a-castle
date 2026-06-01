@@ -9,6 +9,9 @@
     "preview": "vp preview",
     "prepare": "vp config"
   },
+  "dependencies": {
+    "troika-three-text": "^0.52.4"
+  },
   "devDependencies": {
     "typescript": "~6.0.2",
     "vite": "catalog:",
