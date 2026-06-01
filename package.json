@@ -10,7 +10,7 @@
     "prepare": "vp config"
   },
   "dependencies": {
-    "troika-three-text": "^0.52.4"
+    "phaser": "^4.1.0"
   },
   "devDependencies": {
     "typescript": "~6.0.2",
